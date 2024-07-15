@@ -1,0 +1,50 @@
+body {
+    background-color: #f8f4f4;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#create-edit {
+    height: 100%;
+}
+
+.content {
+    background-color: #b4ebf0bf;
+    color: #2a8dcb;
+    border-radius: 20px;
+}
+
+.content ul {
+    list-style: none;
+}
+
+.content a {
+    color: #cf24ed;
+}
+
+.content a:hover {
+    color: #798086;
+}
+
+.pt-serif {
+    font-family: 'PT Serif', serif;
+}
+
+footer a {
+    color: #ffffff !important;
+}
+
+.button-rad {
+    border-radius: 30px;
+}
+
+.dark-form {
+    background-color: #fcfcfc;
+    color: white !important;
+}
+.dark-form::placeholder {
+    color: #D7DADC;
+}
+.dark-form:focus {
+    background-color: #1A1A1B;
+    border-color: #88939b;
+}
